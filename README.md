@@ -12,8 +12,8 @@ Some essential vim commands
 * % -> go to matching parentheses
 * 0 -> start of line
 * $ end of line
-* * -> find next word under cursor
-* # -> find previous word under cursor
+* \* -> find next word under cursor
+* \# -> find previous word under cursor
 * gg -> beginning of file
 * G -> end of file
 * 2g -> go to line 2
