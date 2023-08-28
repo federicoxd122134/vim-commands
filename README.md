@@ -2,7 +2,7 @@
 
 Some essential vim commands
 
-* hjkl -> moverse
+* hjkl -> move
 * w -> move to next word
 * e -> move to end of word
 * b -> move to beginning of word
